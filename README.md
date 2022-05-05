@@ -10,11 +10,11 @@ TestCase_03_CompletePurchase
 TestCase_04_LogOut
 
 Steps to execute the project:
-1. Download the code as Download Zip  from: https://github.com/SoniaMorones/sauce_project.git
+1. Download the code as Download Zip, from: https://github.com/SoniaMorones/sauce_project.git
 2. Create a new folder in your computer.
 3. Save the Zip downloaded in the new folder. 
-4. unzip the file.
-5. Open IntelliJ IDEA IDE.
+4. Unzip the file.
+5. Open IntelliJ IDEA ide.
 6. Go to  File< Open menu.
 7. Search the sause_project-main project.
 8. Open the project "sause_project-main".
